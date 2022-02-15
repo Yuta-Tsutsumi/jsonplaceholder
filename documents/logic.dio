@@ -1,0 +1,13 @@
+<mxfile host="65bd71144e">
+    <diagram id="Oal_WK4TpoV4_VnHvCjS" name="ページ1">
+        <mxGraphModel dx="850" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;ol style=&quot;font-size: 15px&quot;&gt;&lt;li style=&quot;text-align: left&quot;&gt;postsボタンとalbumsボタンを作成&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;postsボタンを押すとAPIデータを取得&lt;/li&gt;&lt;li&gt;albumsボタンを押すとAPIデータが更新される&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="50" width="400" height="90" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
